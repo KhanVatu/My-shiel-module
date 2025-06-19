@@ -1,4 +1,4 @@
 name: zmk-keyboard-<keyboard_ma>
 build:
   settings:
-    board_root: .
+    board_root: mkdir boards/shields/<keyboard_ma>
